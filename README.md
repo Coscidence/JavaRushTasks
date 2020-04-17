@@ -24,7 +24,6 @@ Giving my examples
 
 Add additional notes about how to deploy this on a live system
 
-
 ## Authors
 
 You can learn more about this course in [Russian](http://javarush.ru/) and in [English](https://codegym.cc/) 
